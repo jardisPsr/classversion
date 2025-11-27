@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Jrs\ClassVersion;
+namespace JardisPsr\ClassVersion;
 
 interface ClassVersionConfigInterface
 {
